@@ -1,6 +1,6 @@
 # DIO - UML IPHONE
 Desafio de Modelagem de um UML
-Utilizei o software Mermaid Chart para resolução do desafio
+| Utilizei o software Mermaid Chart para resolução do desafio
 
 Funcionalidades a Modelar
 1. Reprodutor Musical
